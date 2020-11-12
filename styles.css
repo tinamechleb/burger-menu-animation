@@ -1,0 +1,13 @@
+.mobile-menu-burger {
+    height: 39px;
+    flex-direction: column;
+}
+
+.mobile-menu-burger > div {
+    width: 30px;
+    height:1px;
+    background:#fff;
+	-webkit-transition: all, 0.4s;
+	-o-transition: all, 0.4s;
+	transition: all, 0.4s;
+}
